@@ -1,12 +1,12 @@
-import requests
+# import requests
 
-response = requests.get('')
+# response = requests.get('')
 
-output = response.json()
+# output = response.json()
 
-print(output)
+# print(output)
 
-def darkmode():
-    return 'darkmode'
+# def darkmode():
+#     return 'darkmode'
 
-darkmode()
+# darkmode()

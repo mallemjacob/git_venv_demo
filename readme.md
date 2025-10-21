@@ -29,7 +29,7 @@ git commit -m "Initialized git repository and Create virtual enviroment and crea
 git commit --amend
 
 # Add remote origin 
-git remote add origin https://github.com/mallemjacob/git_venv_demo.git
+git remote add origin https://github.com/username/git_venv_demo.git
 
 # Push the changes to the remote repository
 git push -u origin main
