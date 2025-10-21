@@ -10,3 +10,9 @@ spam = ['cat','fat','bat']
 
 for i in spam:
     print(spam)
+
+
+def hello():
+    return [1,3,4,4,5]
+
+hello()
